@@ -1,0 +1,23 @@
+<annotation>
+  <folder>images</folder>
+  <filename>E:\ooops\my\images\train\trafficlight130.jpg</filename>
+  <path>E:\ooops\my\images\train\trafficlight130.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <width>300</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>trafficlight</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>10</xmin>
+      <ymin>10</ymin>
+      <xmax>100</xmax>
+      <ymax>100</ymax>
+    </bndbox>
+  </object>
+</annotation>
